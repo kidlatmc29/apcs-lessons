@@ -48,7 +48,6 @@ public class TestArray {
 		if(arr instanceof Object) {
 			System.out.println("arr is an object.");
 		}
-		
 		}
 	}
 	
